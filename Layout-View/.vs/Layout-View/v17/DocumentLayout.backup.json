@@ -1,61 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Migrations\\20250322044930_RecentWorkDetailTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Layout-View\\Migrations\\20250322044930_RecentWorkDetailTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\models\\recentworkdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\models\\recentworkdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\layout-view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\layout-view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Migrations\\20250322043403_MainSliderTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Layout-View\\Migrations\\20250322043403_MainSliderTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\models\\mainslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\models\\mainslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\layout-viewstart-viewimport\\layout-view\\layout-view\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{032F21A6-7F58-49C7-9C8D-3DB8C858DD0E}|Layout-View\\Layout-View.csproj|solutionrelative:layout-view\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,8 +106,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 22,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250322044930_RecentWorkDetailTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Migrations\\20250322044930_RecentWorkDetailTableCreated.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Migrations\\20250322044930_RecentWorkDetailTableCreated.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Migrations\\20250322044930_RecentWorkDetailTableCreated.cs",
+              "RelativeToolTip": "Layout-View\\Migrations\\20250322044930_RecentWorkDetailTableCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:49:30.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecentWorkDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\RecentWorkDetail.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Models\\RecentWorkDetail.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\RecentWorkDetail.cs",
+              "RelativeToolTip": "Layout-View\\Models\\RecentWorkDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:48:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Layout-View\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Layout-View\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:38:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250322043403_MainSliderTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Migrations\\20250322043403_MainSliderTableCreated.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Migrations\\20250322043403_MainSliderTableCreated.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Migrations\\20250322043403_MainSliderTableCreated.cs",
+              "RelativeToolTip": "Layout-View\\Migrations\\20250322043403_MainSliderTableCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:34:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainSlider.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\MainSlider.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Models\\MainSlider.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\MainSlider.cs",
+              "RelativeToolTip": "Layout-View\\Models\\MainSlider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:32:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\appsettings.json",
+              "RelativeDocumentMoniker": "Layout-View\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\appsettings.json",
+              "RelativeToolTip": "Layout-View\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T03:59:17.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Layout-View\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:58:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Layout-View",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Layout-View.csproj",
+              "RelativeDocumentMoniker": "Layout-View\\Layout-View.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Layout-View.csproj",
+              "RelativeToolTip": "Layout-View\\Layout-View.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T03:58:03.671Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -86,11 +230,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Layout-View\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:55:41.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Layout-View\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Models\\Slider.cs",
+              "RelativeToolTip": "Layout-View\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:55:29.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,23 +269,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Layout-View\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Layout-View\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:13:10.154Z"
+              "WhenOpened": "2025-03-20T16:13:10.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Pricing\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Pricing\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\Pricing\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Pricing\\Index.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\Pricing\\Index.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAgwOkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -124,23 +295,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "PricingController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\PricingController.cs",
               "RelativeDocumentMoniker": "Layout-View\\Controllers\\PricingController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\PricingController.cs",
               "RelativeToolTip": "Layout-View\\Controllers\\PricingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:12:22.888Z"
+              "WhenOpened": "2025-03-20T16:12:22.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Work\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Work\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\Work\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Work\\Index.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\Work\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -149,23 +321,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\WorkController.cs",
               "RelativeDocumentMoniker": "Layout-View\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\WorkController.cs",
               "RelativeToolTip": "Layout-View\\Controllers\\WorkController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:11:07.268Z"
+              "WhenOpened": "2025-03-20T16:11:07.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\About\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\About\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -174,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Layout-View\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\AboutController.cs",
               "RelativeToolTip": "Layout-View\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,37 +360,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAApwIYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAEBAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T16:09:36.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Layout-View\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Layout-View\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T16:07:59.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -226,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,26 +412,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Layout-View\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Layout-View\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T16:07:38.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Program.cs",
               "RelativeDocumentMoniker": "Layout-View\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\Program.cs",
               "RelativeToolTip": "Layout-View\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T16:07:19.873Z",
               "EditorCaption": ""

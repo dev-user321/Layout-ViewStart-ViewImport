@@ -1,3 +1,5 @@
+using Layout_View.Data;
+
 namespace Layout_View
 {
     public class Program
@@ -8,6 +10,8 @@ namespace Layout_View
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddSqlServer<AppDbContext>(builder.Configuration.GetConnectionString("DefaultConnection"));
 
             var app = builder.Build();
 

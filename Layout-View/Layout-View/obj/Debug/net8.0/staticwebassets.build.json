@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NcQdVwwLtpuyT8WcDkA8W45JvKAmGtph/So/rxBZZcM=",
+  "Hash": "GvgaeXym7GaCO4PQEsZwE6iJxdVVZgMese1bAx3r95k=",
   "Source": "Layout-View",
   "BasePath": "_content/Layout-View",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Layout-View\\wwwroot",
       "Source": "Layout-View",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css",
       "SourceId": "Layout-View",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "Layout-View#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "P1iI0BcFMYFsP+tW29s5XO6WzEEsG6KDgnRFCT95R44=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css",
       "SourceId": "Layout-View",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "Layout-View#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "P1iI0BcFMYFsP+tW29s5XO6WzEEsG6KDgnRFCT95R44=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\boxicon.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\boxicon.min.css",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/css/boxicon.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\boxicon.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\custom.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\custom.css",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/css/custom#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\templatemo.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\templatemo.css",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/css/templatemo#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.eot",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/fonts/boxicons#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.svg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/fonts/boxicons#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.ttf",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/fonts/boxicons#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/fonts/boxicons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff2",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/fonts/boxicons#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\apple-icon.png",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/apple-icon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/banner-bg-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/banner-bg-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/banner-bg-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-01.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-01.svg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/banner-img-01#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-img-01.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-02.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-02.svg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/banner-img-02#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-img-02.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\favicon.ico",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\favicon.ico",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-1-large#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-1-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-2-large#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-2-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-3-large#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-3-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/feature-work-4-large#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\feature-work-4-large.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/our-work-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/our-work-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/our-work-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-04.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/our-work-04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-05.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-05.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/our-work-05#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-06.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-06.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/our-work-06#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\our-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\pricing.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\pricing.svg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/pricing#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pricing.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/recent-work-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/recent-work-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/recent-work-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-04.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/recent-work-04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-05.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-05.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/recent-work-05#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-06.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-06.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/recent-work-06#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\recent-work-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/related-post-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/related-post-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/related-post-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\related-post-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-04.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-05.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-05.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-05#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-06.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-06.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-06#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-07.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-07.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-07#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-07.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-08.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-08.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/services-08#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services-08.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/team-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/team-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/team-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-04.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/team-04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-05.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-05.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/team-05#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-06.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-06.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/team-06#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work.svg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-01#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-01-small#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-01-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-02#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-02-small#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-02-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-03#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-03-small#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-03-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-04-small#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-04-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-05#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-05-small#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-05-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-06#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/img/work-slide-06-small#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\work-slide-06-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/custom#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\fslightbox.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\fslightbox.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/fslightbox#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\fslightbox.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\isotope.pkgd.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/isotope.pkgd#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/templatemo#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\templatemo.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.min.js",
       "SourceId": "Layout-View",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\",
       "BasePath": "_content/Layout-View",
       "RelativePath": "assets/js/templatemo.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1637,7 +1637,7 @@
   "Endpoints": [
     {
       "Route": "assets/css/bootstrap.33dw6efjiu.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1682,7 +1682,7 @@
     },
     {
       "Route": "assets/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1719,7 +1719,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.9x7t7zuxr0.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1764,7 +1764,7 @@
     },
     {
       "Route": "assets/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1801,7 +1801,7 @@
     },
     {
       "Route": "assets/css/boxicon.min.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\boxicon.min.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\boxicon.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1838,7 +1838,7 @@
     },
     {
       "Route": "assets/css/boxicon.min.fo7lt0ztqy.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\boxicon.min.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\boxicon.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1883,7 +1883,7 @@
     },
     {
       "Route": "assets/css/custom.1zrbqglhjp.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\custom.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1928,7 +1928,7 @@
     },
     {
       "Route": "assets/css/custom.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\custom.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1965,7 +1965,7 @@
     },
     {
       "Route": "assets/css/templatemo.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\templatemo.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\templatemo.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2002,7 +2002,7 @@
     },
     {
       "Route": "assets/css/templatemo.rj2nuhtqr6.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\templatemo.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\css\\templatemo.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2047,7 +2047,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.eot",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2084,7 +2084,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.mb24np0qyj.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2129,7 +2129,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.sv0ffwb05o.ttf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2174,7 +2174,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2211,7 +2211,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.tmjwwad4zl.woff",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2256,7 +2256,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.ttf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2293,7 +2293,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.woff",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2330,7 +2330,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.woff2",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2367,7 +2367,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.xn9pdmkoj1.eot",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2412,7 +2412,7 @@
     },
     {
       "Route": "assets/fonts/boxicons.xnydmokel6.woff2",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\fonts\\boxicons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2457,7 +2457,7 @@
     },
     {
       "Route": "assets/img/apple-icon.2deyurvvoa.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\apple-icon.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\apple-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2502,7 +2502,7 @@
     },
     {
       "Route": "assets/img/apple-icon.png",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\apple-icon.png",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\apple-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2539,7 +2539,7 @@
     },
     {
       "Route": "assets/img/banner-bg-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2576,7 +2576,7 @@
     },
     {
       "Route": "assets/img/banner-bg-01.kdnwosni4m.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2621,7 +2621,7 @@
     },
     {
       "Route": "assets/img/banner-bg-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2658,7 +2658,7 @@
     },
     {
       "Route": "assets/img/banner-bg-02.lqa87amgb3.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2703,7 +2703,7 @@
     },
     {
       "Route": "assets/img/banner-bg-03.f0ygsb8f1j.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2748,7 +2748,7 @@
     },
     {
       "Route": "assets/img/banner-bg-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-bg-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2785,7 +2785,7 @@
     },
     {
       "Route": "assets/img/banner-img-01.lbsgrvi0f9.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-01.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-01.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
     },
     {
       "Route": "assets/img/banner-img-01.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-01.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-01.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2867,7 +2867,7 @@
     },
     {
       "Route": "assets/img/banner-img-02.j0jqih99zp.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-02.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-02.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2912,7 +2912,7 @@
     },
     {
       "Route": "assets/img/banner-img-02.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-02.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\banner-img-02.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2949,7 +2949,7 @@
     },
     {
       "Route": "assets/img/favicon.8fzfev08o6.ico",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\favicon.ico",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2994,7 +2994,7 @@
     },
     {
       "Route": "assets/img/favicon.ico",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\favicon.ico",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3031,7 +3031,7 @@
     },
     {
       "Route": "assets/img/feature-work-1.cazux2zhsb.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3076,7 +3076,7 @@
     },
     {
       "Route": "assets/img/feature-work-1.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3113,7 +3113,7 @@
     },
     {
       "Route": "assets/img/feature-work-1-large.ahp0iry2h0.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3158,7 +3158,7 @@
     },
     {
       "Route": "assets/img/feature-work-1-large.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-1-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3195,7 +3195,7 @@
     },
     {
       "Route": "assets/img/feature-work-2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3232,7 +3232,7 @@
     },
     {
       "Route": "assets/img/feature-work-2.pv205ant0t.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3277,7 +3277,7 @@
     },
     {
       "Route": "assets/img/feature-work-2-large.8s02k61xv9.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3322,7 +3322,7 @@
     },
     {
       "Route": "assets/img/feature-work-2-large.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-2-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3359,7 +3359,7 @@
     },
     {
       "Route": "assets/img/feature-work-3.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3396,7 +3396,7 @@
     },
     {
       "Route": "assets/img/feature-work-3.zej1irhg34.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3441,7 +3441,7 @@
     },
     {
       "Route": "assets/img/feature-work-3-large.2hd8hyifdt.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3486,7 +3486,7 @@
     },
     {
       "Route": "assets/img/feature-work-3-large.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-3-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3523,7 +3523,7 @@
     },
     {
       "Route": "assets/img/feature-work-4.b1sn2vhdpq.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3568,7 +3568,7 @@
     },
     {
       "Route": "assets/img/feature-work-4.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3605,7 +3605,7 @@
     },
     {
       "Route": "assets/img/feature-work-4-large.6iaodeexi3.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3650,7 +3650,7 @@
     },
     {
       "Route": "assets/img/feature-work-4-large.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\feature-work-4-large.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3687,7 +3687,7 @@
     },
     {
       "Route": "assets/img/our-work-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3724,7 +3724,7 @@
     },
     {
       "Route": "assets/img/our-work-01.q7xjls4kvq.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3769,7 +3769,7 @@
     },
     {
       "Route": "assets/img/our-work-02.9gfozcn342.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3814,7 +3814,7 @@
     },
     {
       "Route": "assets/img/our-work-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3851,7 +3851,7 @@
     },
     {
       "Route": "assets/img/our-work-03.5oplww8n4q.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3896,7 +3896,7 @@
     },
     {
       "Route": "assets/img/our-work-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3933,7 +3933,7 @@
     },
     {
       "Route": "assets/img/our-work-04.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3970,7 +3970,7 @@
     },
     {
       "Route": "assets/img/our-work-04.snmosuz14u.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4015,7 +4015,7 @@
     },
     {
       "Route": "assets/img/our-work-05.3gq95adiku.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4060,7 +4060,7 @@
     },
     {
       "Route": "assets/img/our-work-05.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4097,7 +4097,7 @@
     },
     {
       "Route": "assets/img/our-work-06.cy436u0sfj.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4142,7 +4142,7 @@
     },
     {
       "Route": "assets/img/our-work-06.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\our-work-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4179,7 +4179,7 @@
     },
     {
       "Route": "assets/img/pricing.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\pricing.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\pricing.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4216,7 +4216,7 @@
     },
     {
       "Route": "assets/img/pricing.ufapvzjw3z.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\pricing.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\pricing.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4261,7 +4261,7 @@
     },
     {
       "Route": "assets/img/recent-work-01.89o3e7l4j4.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4306,7 +4306,7 @@
     },
     {
       "Route": "assets/img/recent-work-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4343,7 +4343,7 @@
     },
     {
       "Route": "assets/img/recent-work-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4380,7 +4380,7 @@
     },
     {
       "Route": "assets/img/recent-work-02.qk0kv5ywwz.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4425,7 +4425,7 @@
     },
     {
       "Route": "assets/img/recent-work-03.15quljj2g4.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4470,7 +4470,7 @@
     },
     {
       "Route": "assets/img/recent-work-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4507,7 +4507,7 @@
     },
     {
       "Route": "assets/img/recent-work-04.1ztch99845.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4552,7 +4552,7 @@
     },
     {
       "Route": "assets/img/recent-work-04.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4589,7 +4589,7 @@
     },
     {
       "Route": "assets/img/recent-work-05.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4626,7 +4626,7 @@
     },
     {
       "Route": "assets/img/recent-work-05.x4i34pv4k6.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4671,7 +4671,7 @@
     },
     {
       "Route": "assets/img/recent-work-06.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4708,7 +4708,7 @@
     },
     {
       "Route": "assets/img/recent-work-06.o6pbwlu7y1.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\recent-work-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4753,7 +4753,7 @@
     },
     {
       "Route": "assets/img/related-post-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4790,7 +4790,7 @@
     },
     {
       "Route": "assets/img/related-post-01.r73qyptz1y.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4835,7 +4835,7 @@
     },
     {
       "Route": "assets/img/related-post-02.iefw6df66f.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4880,7 +4880,7 @@
     },
     {
       "Route": "assets/img/related-post-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4917,7 +4917,7 @@
     },
     {
       "Route": "assets/img/related-post-03.bd38efy4sa.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4962,7 +4962,7 @@
     },
     {
       "Route": "assets/img/related-post-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\related-post-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4999,7 +4999,7 @@
     },
     {
       "Route": "assets/img/services-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5036,7 +5036,7 @@
     },
     {
       "Route": "assets/img/services-01.vnwhs971mm.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5081,7 +5081,7 @@
     },
     {
       "Route": "assets/img/services-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5118,7 +5118,7 @@
     },
     {
       "Route": "assets/img/services-02.kr6z8c86p8.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5163,7 +5163,7 @@
     },
     {
       "Route": "assets/img/services-03.bhrrluhcf0.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5208,7 +5208,7 @@
     },
     {
       "Route": "assets/img/services-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5245,7 +5245,7 @@
     },
     {
       "Route": "assets/img/services-04.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5282,7 +5282,7 @@
     },
     {
       "Route": "assets/img/services-04.zfzuraw1uo.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5327,7 +5327,7 @@
     },
     {
       "Route": "assets/img/services-05.7jlce0utoq.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5372,7 +5372,7 @@
     },
     {
       "Route": "assets/img/services-05.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5409,7 +5409,7 @@
     },
     {
       "Route": "assets/img/services-06.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5446,7 +5446,7 @@
     },
     {
       "Route": "assets/img/services-06.krm5271ftf.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5491,7 +5491,7 @@
     },
     {
       "Route": "assets/img/services-07.a5gk0cjhzg.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-07.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-07.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5536,7 +5536,7 @@
     },
     {
       "Route": "assets/img/services-07.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-07.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-07.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5573,7 +5573,7 @@
     },
     {
       "Route": "assets/img/services-08.cn3iwa03xa.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-08.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-08.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5618,7 +5618,7 @@
     },
     {
       "Route": "assets/img/services-08.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-08.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\services-08.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5655,7 +5655,7 @@
     },
     {
       "Route": "assets/img/team-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5692,7 +5692,7 @@
     },
     {
       "Route": "assets/img/team-01.nskbruidxh.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5737,7 +5737,7 @@
     },
     {
       "Route": "assets/img/team-02.ceupdpn22l.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5782,7 +5782,7 @@
     },
     {
       "Route": "assets/img/team-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5819,7 +5819,7 @@
     },
     {
       "Route": "assets/img/team-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5856,7 +5856,7 @@
     },
     {
       "Route": "assets/img/team-03.odlfcgl5ru.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5901,7 +5901,7 @@
     },
     {
       "Route": "assets/img/team-04.dsrqkv53mf.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5946,7 +5946,7 @@
     },
     {
       "Route": "assets/img/team-04.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5983,7 +5983,7 @@
     },
     {
       "Route": "assets/img/team-05.d0rrr7xzq5.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6028,7 +6028,7 @@
     },
     {
       "Route": "assets/img/team-05.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6065,7 +6065,7 @@
     },
     {
       "Route": "assets/img/team-06.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6102,7 +6102,7 @@
     },
     {
       "Route": "assets/img/team-06.xolnodeisx.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\team-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6147,7 +6147,7 @@
     },
     {
       "Route": "assets/img/work.cm0hkeda4m.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6192,7 +6192,7 @@
     },
     {
       "Route": "assets/img/work.svg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work.svg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6229,7 +6229,7 @@
     },
     {
       "Route": "assets/img/work-slide-01.dmw83nsb6n.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6274,7 +6274,7 @@
     },
     {
       "Route": "assets/img/work-slide-01.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6311,7 +6311,7 @@
     },
     {
       "Route": "assets/img/work-slide-01-small.eogeobqvef.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6356,7 +6356,7 @@
     },
     {
       "Route": "assets/img/work-slide-01-small.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-01-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6393,7 +6393,7 @@
     },
     {
       "Route": "assets/img/work-slide-02.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6430,7 +6430,7 @@
     },
     {
       "Route": "assets/img/work-slide-02.spfvecgrun.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6475,7 +6475,7 @@
     },
     {
       "Route": "assets/img/work-slide-02-small.cquo44qkmp.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6520,7 +6520,7 @@
     },
     {
       "Route": "assets/img/work-slide-02-small.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-02-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6557,7 +6557,7 @@
     },
     {
       "Route": "assets/img/work-slide-03.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6594,7 +6594,7 @@
     },
     {
       "Route": "assets/img/work-slide-03.p6jfqrswzw.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6639,7 +6639,7 @@
     },
     {
       "Route": "assets/img/work-slide-03-small.b3bsfzmjkt.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6684,7 +6684,7 @@
     },
     {
       "Route": "assets/img/work-slide-03-small.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-03-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6721,7 +6721,7 @@
     },
     {
       "Route": "assets/img/work-slide-04.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6758,7 +6758,7 @@
     },
     {
       "Route": "assets/img/work-slide-04.w66rns4806.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6803,7 +6803,7 @@
     },
     {
       "Route": "assets/img/work-slide-04-small.3o0xndm9df.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6848,7 +6848,7 @@
     },
     {
       "Route": "assets/img/work-slide-04-small.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-04-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6885,7 +6885,7 @@
     },
     {
       "Route": "assets/img/work-slide-05.daegc26sco.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6930,7 +6930,7 @@
     },
     {
       "Route": "assets/img/work-slide-05.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6967,7 +6967,7 @@
     },
     {
       "Route": "assets/img/work-slide-05-small.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7004,7 +7004,7 @@
     },
     {
       "Route": "assets/img/work-slide-05-small.twmwe1ic40.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-05-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7049,7 +7049,7 @@
     },
     {
       "Route": "assets/img/work-slide-06.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7086,7 +7086,7 @@
     },
     {
       "Route": "assets/img/work-slide-06.s3fyx9rjls.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7131,7 +7131,7 @@
     },
     {
       "Route": "assets/img/work-slide-06-small.j0f4dub2he.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7176,7 +7176,7 @@
     },
     {
       "Route": "assets/img/work-slide-06-small.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\img\\work-slide-06-small.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7213,7 +7213,7 @@
     },
     {
       "Route": "assets/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7250,7 +7250,7 @@
     },
     {
       "Route": "assets/js/bootstrap.bundle.min.kt15t08tud.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7295,7 +7295,7 @@
     },
     {
       "Route": "assets/js/custom.5ipweew5fc.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\custom.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7340,7 +7340,7 @@
     },
     {
       "Route": "assets/js/custom.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\custom.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\custom.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7377,7 +7377,7 @@
     },
     {
       "Route": "assets/js/fslightbox.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\fslightbox.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\fslightbox.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7414,7 +7414,7 @@
     },
     {
       "Route": "assets/js/fslightbox.vxjcdxw8np.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\fslightbox.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\fslightbox.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7459,7 +7459,7 @@
     },
     {
       "Route": "assets/js/isotope.pkgd.br0zmhkmg1.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\isotope.pkgd.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7504,7 +7504,7 @@
     },
     {
       "Route": "assets/js/isotope.pkgd.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\isotope.pkgd.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7541,7 +7541,7 @@
     },
     {
       "Route": "assets/js/jquery.min.1s3wh7te5w.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7586,7 +7586,7 @@
     },
     {
       "Route": "assets/js/jquery.min.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7623,7 +7623,7 @@
     },
     {
       "Route": "assets/js/templatemo.focvd1v5s3.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7668,7 +7668,7 @@
     },
     {
       "Route": "assets/js/templatemo.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7705,7 +7705,7 @@
     },
     {
       "Route": "assets/js/templatemo.min.5hqswtyda3.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7750,7 +7750,7 @@
     },
     {
       "Route": "assets/js/templatemo.min.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\wwwroot\\assets\\js\\templatemo.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7787,7 +7787,7 @@
     },
     {
       "Route": "Layout-View.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7808,7 +7808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 16:23:06 GMT"
+          "Value": "Sat, 22 Mar 2025 04:16:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7824,7 +7824,7 @@
     },
     {
       "Route": "Layout-View.styles.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7845,7 +7845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 16:23:06 GMT"
+          "Value": "Sat, 22 Mar 2025 04:16:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7861,7 +7861,7 @@
     },
     {
       "Route": "Layout-View.z3rc8v2xg9.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Layout-View.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7882,7 +7882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 16:23:06 GMT"
+          "Value": "Sat, 22 Mar 2025 04:16:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7906,7 +7906,7 @@
     },
     {
       "Route": "Layout-View.z3rc8v2xg9.styles.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\Layout-ViewStart-ViewImport\\Layout-View\\Layout-View\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Layout-View.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7927,7 +7927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 16:23:06 GMT"
+          "Value": "Sat, 22 Mar 2025 04:16:12 GMT"
         },
         {
           "Name": "Cache-Control",
